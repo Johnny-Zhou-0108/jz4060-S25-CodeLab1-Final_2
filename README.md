@@ -1,5 +1,7 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+Final_Part2
 
-DO NOT LEAVE IT LIKE THIS!!!
+This mostly comes from another proj last semester, I mainly play around with the scriptable obj to have that item system works.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+I wish that this could work with the first part of the Final, so that it could load dynamic AI responses and Map.
+
+But obviously, there is a long way to go.
